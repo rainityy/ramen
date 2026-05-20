@@ -1,5 +1,5 @@
 .wrapper {
-    width: 990px;
+    max-width: 990px;
     height: auto;
     background-color: rgb(249, 254, 255);
     border-radius: 20px;
