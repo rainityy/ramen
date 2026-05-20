@@ -94,8 +94,6 @@ body {
 .buttontama {
     position: inherit;
     margin: auto;
-    background: none;
-    border: none;
     cursor: pointer;
     transition-duration: 0.4s;
     left: 40px;
@@ -104,8 +102,6 @@ body {
 .buttonhiru {
     position: inherit;
     margin: auto;
-    background: none;
-    border: none;
     cursor: pointer;
     transition-duration: 0.4s;
     left: 60px;
@@ -116,8 +112,6 @@ body {
 .buttonsora {
     position: inherit;
     margin: auto;
-    background: none;
-    border: none;
     cursor: pointer;
     transition-duration: 0.4s;
     right: -80px;
