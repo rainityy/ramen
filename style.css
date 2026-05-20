@@ -3,12 +3,11 @@
     height: auto;
     background-color: rgb(249, 254, 255);
     border-radius: 20px;
-    margin: auto;
+    margin: 0 auto;
 }
 
 body {
     background-color: #a3c5f0;
-    margin: auto;
 }
 
 .mainvisual {
