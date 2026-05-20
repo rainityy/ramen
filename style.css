@@ -6,12 +6,12 @@
     margin: 0 auto;
 }
 
-body {
+body, html {
     background-color: #a3c5f0;
 }
 
 .mainvisual {
-    width: 100%;
+    width: 990px;
     height: 800px;
     position: relative;
     margin: auto;
